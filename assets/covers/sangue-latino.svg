@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 640" role="img" aria-label="">
+  <rect width="480" height="640" fill="#121212"/>
+  <rect x="48" y="100" width="384" height="440" fill="#1e1e1e" stroke="#444" stroke-width="4"/>
+  <rect x="90" y="72" width="300" height="56" fill="#121212"/>
+  <text x="240" y="110" text-anchor="middle" fill="#8b0000" font-family="Courier New, Courier, monospace" font-size="28" font-weight="700" letter-spacing="4">CONFIDENCIAL</text>
+  <text x="240" y="320" text-anchor="middle" fill="#b30000" font-family="Courier New, Courier, monospace" font-size="96" font-weight="700">SL</text>
+  <line x1="110" y1="380" x2="370" y2="380" stroke="#444" stroke-width="2" stroke-dasharray="8 8"/>
+  <text x="240" y="450" text-anchor="middle" fill="#d9d9d9" font-family="Courier New, Courier, monospace" font-size="36">1973</text>
+</svg>

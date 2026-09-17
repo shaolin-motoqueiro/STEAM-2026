@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Arquivo de histórias interativas — steam26" />
+    <title>steam26 — arquivo</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="grain" aria-hidden="true"></div>
+
+    <header class="site-header">
+      <p class="brand">steam26</p>
+      <h1 class="headline">Arquivo de casos</h1>
+      <p class="lede">Escolha uma história. Cada entrada abre o site correspondente.</p>
+    </header>
+
+    <main>
+      <section class="archive" aria-label="Carrossel de histórias">
+        <div class="carousel">
+          <button
+            type="button"
+            class="carousel-btn carousel-btn--prev"
+            id="carousel-prev"
+            aria-label="Caso anterior"
+          >
+            ‹
+          </button>
+
+          <div class="carousel-viewport" id="carousel-viewport">
+            <ul id="story-track" class="story-track"></ul>
+          </div>
+
+          <button
+            type="button"
+            class="carousel-btn carousel-btn--next"
+            id="carousel-next"
+            aria-label="Próximo caso"
+          >
+            ›
+          </button>
+        </div>
+
+        <div class="carousel-dots" id="carousel-dots" role="tablist" aria-label="Indicadores do carrossel"></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>Navegação na mesma janela · otimizado para browser VR</p>
+    </footer>
+
+    <script src="stories.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

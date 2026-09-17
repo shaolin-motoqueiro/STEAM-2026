@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="">
+  <rect width="128" height="128" fill="#faf3e7"/>
+  <circle cx="64" cy="58" r="42" fill="none" stroke="#9e2518" stroke-width="3.5" opacity="0.92"/>
+  <circle cx="64" cy="58" r="34" fill="none" stroke="#9e2518" stroke-width="1.2" opacity="0.55"/>
+  <text x="64" y="52" text-anchor="middle" fill="#9e2518" font-family="Courier New, monospace" font-size="11" font-weight="700" letter-spacing="1">DOPS</text>
+  <text x="64" y="68" text-anchor="middle" fill="#9e2518" font-family="Courier New, monospace" font-size="10" font-weight="700">1973</text>
+  <text x="64" y="118" text-anchor="middle" fill="#543820" font-family="Courier New, monospace" font-size="9">SP</text>
+</svg>
