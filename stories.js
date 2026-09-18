@@ -41,7 +41,7 @@ var stories = [
     title: "A Fita 13",
     blurb: "Mistério na Floresta — web-narrativa CRT inspirada em Secos & Molhados.",
     url: "https://fita13.netlify.app/",
-    cover: "assets/covers/fita-13.svg",
+    cover: "assets/covers/fita-13.png",
     thumb: "assets/thumbs/fita-13.svg",
     status: "aberto",
   },
