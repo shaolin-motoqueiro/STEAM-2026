@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="">
+  <rect width="128" height="128" fill="#040406"/>
+  <rect x="10" y="12" width="108" height="104" rx="10" fill="#2b2620"/>
+  <rect x="18" y="20" width="92" height="78" rx="6" fill="#000"/>
+  <text x="64" y="48" text-anchor="middle" fill="#ffc15a" font-family="Courier New, monospace" font-size="9" font-weight="700" letter-spacing="1">FITA</text>
+  <text x="64" y="78" text-anchor="middle" fill="#e9e1c4" font-family="Courier New, monospace" font-size="28" font-weight="700">13</text>
+  <text x="65" y="79" text-anchor="middle" fill="#a8261c" font-family="Courier New, monospace" font-size="28" font-weight="700" opacity="0.5">13</text>
+  <text x="64" y="108" text-anchor="middle" fill="#9b8c70" font-family="Courier New, monospace" font-size="8">CRT</text>
+</svg>
