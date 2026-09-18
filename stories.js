@@ -22,7 +22,7 @@ var stories = [
     id: "literatura-digital",
     title: "Antes que a Boca Fale",
     blurb: "Literatura Digital — memória, opressão e resistência nos anos de chumbo.",
-    url: "https://literatura-digital-mostra.vercel.app/",
+    url: "https://literatura-digital.vercel.app/",
     cover: "assets/covers/literatura-digital.png",
     thumb: "assets/thumbs/literatura-digital.png",
     status: "aberto",
