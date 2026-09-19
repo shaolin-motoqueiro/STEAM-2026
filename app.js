@@ -23,8 +23,8 @@
     if (isOpen) {
       card = document.createElement("a");
       card.href = story.url || "#";
-      card.target = "_self";
-      card.rel = "noopener";
+      card.target = "_blank";
+      card.rel = "noopener noreferrer";
       card.className = "story-card";
       card.setAttribute("aria-label", story.title + ". Abrir história.");
     } else {
