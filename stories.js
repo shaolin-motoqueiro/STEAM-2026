@@ -45,4 +45,13 @@ var stories = [
     thumb: "assets/thumbs/fita-13.svg",
     status: "aberto",
   },
+  {
+    id: "misterio-1973",
+    title: "O Mistério de 1973",
+    blurb: "Web-narrativa entre música, censura e silêncio — São Paulo, 1973.",
+    url: "https://web-narrativa-alpha.vercel.app/",
+    cover: "assets/covers/misterio-1973.jpg",
+    thumb: "assets/thumbs/misterio-1973.svg",
+    status: "aberto",
+  },
 ];

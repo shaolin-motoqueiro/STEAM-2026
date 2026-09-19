@@ -68,7 +68,7 @@
 
     var title = document.createElement("h2");
     title.className = "story-title";
-    title.textContent = story.title;
+    title.textContent = story.title; 
 
     var blurb = document.createElement("p");
     blurb.className = "story-blurb";
