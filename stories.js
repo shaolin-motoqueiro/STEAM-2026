@@ -54,4 +54,13 @@ var stories = [
     thumb: "assets/thumbs/misterio-1973.svg",
     status: "aberto",
   },
+  {
+    id: "nos",
+    title: "Nós",
+    blurb: "Narrativa de exploração psicológica — fatia vertical: a abertura.",
+    url: "https://nos-brown-psi.vercel.app/",
+    cover: "assets/covers/nos.png",
+    thumb: "assets/thumbs/nos.svg",
+    status: "aberto",
+  },
 ];
