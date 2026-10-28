@@ -60,7 +60,7 @@ var stories = [
     blurb: "Narrativa de exploração psicológica — fatia vertical: a abertura.",
     url: "https://nos-brown-psi.vercel.app/",
     cover: "assets/covers/nos.png",
-    thumb: "assets/thumbs/nos.svg",
+    thumb: "assets/thumbs/nos.png",
     status: "aberto",
   },
 ];
